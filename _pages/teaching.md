@@ -9,18 +9,19 @@ nav_order: 6
 
 
 ## **Organizational Behavior and Group Dynamics**
-**Institution:** University of Groningen  
+**Institution:** University of Groningen, Netherlands  
 **Topics:** Organizational behavior, Teams, Social Network Analysis (SNA)  
 [Course syllabus](https://ocasys.rug.nl/2022-2023/catalog/course/WBIE012-05)  
 **Class size:** ~ 120  
+**Level:** Bachelor  
 **Role:** Teaching assistant. Assisted in SNA tutorials, covered a lesson on innovative data collection methods for SNA, and delivered a theoretical lesson on organizational teams  
 **Semester:** 
 - Autumn 2020 
 - Autumn 2021   
 
 **Evaluations:**
-  - 7.74 (2020) Scale: 1 = very poor, 10 = very good
-  - 8.00 (2021) Scale: 1 = very poor, 10 = very good
+  - 7.74 (2020) *Scale: 1 = very poor, 10 = very good*
+  - 8.00 (2021) *Scale: 1 = very poor, 10 = very good*
 
 
 ## **Tools for the Analysis of Complex Social Systems: An Introduction**
@@ -28,19 +29,21 @@ nav_order: 6
 **Topics:** Complex systems theory, System dynamics, Agent-based modelling, QCA  
 [Course syllabus](https://ecpr.eu/Events/Event/PanelDetails/8359)  
 **Class size:** ~ 20  
+**Level:** Graduate  
 **Role:** Teaching assistant. Conducted tutorials on System Dynamics using Vensim and Agent-Based Modeling using NetLogo  
 **Semester:** 
 - December 2018 
 - December 2019
 
 **Evaluations:**
-  - 4.28 (2018) Scale: 1 = very poor, 5 = very good
+  - 4.28 (2018) *Scale: 1 = very poor, 5 = very good*
 
 
 ## **Computer-Aided Social Inquiry**
 **Institution:** Otto-Friedrich-Universität Bamberg, Germany  
 **Topics:** System Dynamics Modelling, Vensim  
 **Class size:** ~ 10  
+**Level:** Graduate  
 **Role:** Teaching assistant. Conducted tutorials on Vensim, assisting students in developing their projects  
 **Semester:** 
 - Autumn 2017
@@ -50,6 +53,7 @@ nav_order: 6
 **Institution:** University of Belgrade, Department of Psychology, Faculty of Philosophy, Serbia  
 **Topics:** Psychometrics, Instrument development, Statistics  
 **Class size:** ~ 100, actively mentoring one to two groups, each consisting of five members  
+**Level:** Bachelor  
 **Role:** Student mentor. Guided groups of students in developing a new psychological instrument, organizing and conducting research, analyzing collected data, and writing an instrument manual; assessed students' assignments for the course  
 **Semester:** 
 - Autumn 2014

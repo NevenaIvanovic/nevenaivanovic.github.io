@@ -15,7 +15,7 @@ nav_order: 2
 
 **2022**
 
-- **Ivanovic, N.**, De Vries, T. A., & Van Der Vegt, G. S. (2022). Managing Attention in Virtual Hackathons: Effective Configurations of Team External Communication. In **_Academy of Management Proceedings_** (Vol. 2022, No. 1, p. 14794). Briarcliff Manor, NY 10510: **Academy of Management**. [https://doi.org/10.5465/AMBPP.2022.226](https://doi.org/10.5465/AMBPP.2022.226)
+- **Ivanovic, N.**, De Vries, T. A., & Van Der Vegt, G. S. (2022). Managing Attention in Virtual Hackathons: Effective Configurations of Team External Communication. In **_Academy of Management Proceedings_** (Vol. 2022, No. 1, p. 14794). Briarcliff Manor, NY 10510: **Academy of Management**. **_Best student paper TIM division winner_**. [https://doi.org/10.5465/AMBPP.2022.226](https://doi.org/10.5465/AMBPP.2022.226)
 
 **2021**
 
