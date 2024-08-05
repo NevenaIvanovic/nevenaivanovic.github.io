@@ -10,10 +10,10 @@ nav_order: 6
 
 ## **Organizational Behavior and Group Dynamics**
 **Institution:** University of Groningen  
-**Topics:** Organizational behavior, teams, Network analysis  
+**Topics:** Organizational behavior, Teams, Social Network Analysis (SNA)  
 [Course syllabus](https://ocasys.rug.nl/2022-2023/catalog/course/WBIE012-05)  
 **Class size:** ~ 120  
-**Role:** Teaching assistant, covered a lesson and a tutorial on organizational teams  
+**Role:** Teaching assistant. Assisted in SNA tutorials, covered a lesson on innovative data collection methods for SNA, and delivered a theoretical lesson on organizational teams  
 **Semester:** 
 - Autumn 2020 
 - Autumn 2021   
@@ -28,7 +28,7 @@ nav_order: 6
 **Topics:** Complex systems theory, System dynamics, Agent-based modelling, QCA  
 [Course syllabus](https://ecpr.eu/Events/Event/PanelDetails/8359)  
 **Class size:** ~ 20  
-**Role:** Teaching assistant, covered topics of System dynamics and Agent-based modelling  
+**Role:** Teaching assistant. Conducted tutorials on System Dynamics using Vensim and Agent-Based Modeling using NetLogo  
 **Semester:** 
 - December 2018 
 - December 2019
@@ -39,18 +39,18 @@ nav_order: 6
 
 ## **Computer-Aided Social Inquiry**
 **Institution:** Otto-Friedrich-Universität Bamberg, Germany  
-**Topics:** System dynamics modelling, Vensim  
+**Topics:** System Dynamics Modelling, Vensim  
 **Class size:** ~ 10  
-**Role:** Teaching assistant, conducing tutorials on Vensim, helping students develop their projects  
+**Role:** Teaching assistant. Conducted tutorials on Vensim, assisting students in developing their projects  
 **Semester:** 
 - Autumn 2017
 - Autumn 2018
 
 ## **Psychometrics and Psychology of Individual Differences**
 **Institution:** University of Belgrade, Department of Psychology, Faculty of Philosophy, Serbia  
-**Topics:** Psychometrics, instrument development, statistics  
-**Class size:** ~ 100, actively mentoring of five-member groups  
-**Role:** Student mentor, guiding groups of students in the process of developing a new psychological instrument, organising and conducting research, analyzing the collected data, and writing an Instrument manual; assessing students' assignments on the course  
+**Topics:** Psychometrics, Instrument development, Statistics  
+**Class size:** ~ 100, actively mentoring one to two groups, each consisting of five members  
+**Role:** Student mentor. Guided groups of students in developing a new psychological instrument, organizing and conducting research, analyzing collected data, and writing an instrument manual; assessed students' assignments for the course  
 **Semester:** 
 - Autumn 2014
 - Autumn 2015

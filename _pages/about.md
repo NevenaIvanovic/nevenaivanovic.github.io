@@ -11,7 +11,7 @@ profile:
   more_info: > 
     <p><a href='https://www.rug.nl/feb/organization/departments/hrmob/?lang=en'>HRM&OB</a></p>  
     <p><a href='https://www.rug.nl/feb'>Faculty of Economics and Business</a></p>  
-    <p>University of Groningen</p>  
+    <p><a href='https://www.rug.nl'>University of Groningen</a></p>  
     <p>Nettelbosje 2, Office 345</p>  
     <p>9747 AE Groningen, Netherlands</p>    
 
@@ -33,4 +33,4 @@ My research focuses on understanding how individuals and teams perform and maint
 - Accelerated innovation processes
 - Social network analysis
 - Physiological synchrony
-- Human-technology interaction in the workplace
+- Human-technology interaction
