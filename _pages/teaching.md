@@ -15,8 +15,13 @@ nav_order: 6
 **Class size:** ~ 120  
 **Role:** Teaching assistant, covered a lesson and a tutorial on organizational teams  
 **Semester:** 
-- Autumn 2020 (Evaluation: 7.74) | Scale: 1 = very poor, 10 = very good
-- Autumn 2021 (Evaluation: 8.00) | Scale: 1 = very poor, 10 = very good
+- Autumn 2020 
+- Autumn 2021   
+
+**Evaluations:**
+  - 7.74 (2020) Scale: 1 = very poor, 10 = very good
+  - 8.00 (2021) Scale: 1 = very poor, 10 = very good
+
 
 ## **Tools for the Analysis of Complex Social Systems: An Introduction**
 **Institution:** ECPR Winter School in Research Methods and Techniques  
@@ -25,8 +30,11 @@ nav_order: 6
 **Class size:** ~ 20  
 **Role:** Teaching assistant, covered topics of System dynamics and Agent-based modelling  
 **Semester:** 
-- December 2018 (Evaluation: 4.28) | Scale: 1 = very poor, 5 = very good
-- December 2019 (Evaluation: NA)  
+- December 2018 
+- December 2019
+
+**Evaluations:**
+  - 4.28 (2018) Scale: 1 = very poor, 5 = very good
 
 
 ## **Computer-Aided Social Inquiry**

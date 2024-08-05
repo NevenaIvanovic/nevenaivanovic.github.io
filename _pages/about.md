@@ -32,5 +32,5 @@ My research focuses on understanding how individuals and teams perform and maint
 - Virtual and distributed teamwork
 - Accelerated innovation processes
 - Social network analysis
-- Collective physiological synchrony
+- Physiological synchrony
 - Human-technology interaction in the workplace
