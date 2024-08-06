@@ -25,7 +25,7 @@ nav_order: 6
 
 
 ## **Tools for the Analysis of Complex Social Systems: An Introduction**
-**Institution:** ECPR Winter School in Research Methods and Techniques  
+**Institution:** [ECPR](https://ecpr.eu/) Winter School in Research Methods and Techniques  
 **Topics:** Complex systems theory, System dynamics, Agent-based modelling, QCA  
 [Course syllabus](https://ecpr.eu/Events/Event/PanelDetails/8359)  
 **Class size:** ~ 20  
@@ -40,7 +40,7 @@ nav_order: 6
 
 
 ## **Computer-Aided Social Inquiry**
-**Institution:** Otto-Friedrich-Universität Bamberg, Germany  
+**Institution:** [University of Bamberg](https://www.uni-bamberg.de/en/), Germany  
 **Topics:** System Dynamics Modelling, Vensim  
 **Class size:** ~ 10  
 **Level:** Graduate  
