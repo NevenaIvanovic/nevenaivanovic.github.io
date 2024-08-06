@@ -24,7 +24,7 @@ nav_order: 2
 **2018**
 
 - [Ruggeri, K.](https://scholar.google.com/citations?user=u05dAdoAAAAJ&hl=en&oi=ao), **Ivanovic, N.**, Razum, J., Kácha, O., Menezes, I. G., Zafari, Z., & Garcia-Garzon, E. (2018). An evidence-based policy for improving choice in global health access through medical travel. **_Health Policy_**, 122(12), 1372-1376. [https://doi.org/10.1016/j.healthpol.2018.09.017](https://doi.org/10.1016/j.healthpol.2018.09.017)
-- **Ivanovic, N.**, & Gerrits, L. (2018). Teaching complexity in public administration across the globe: an overview. **_Complexity, Governance & Networks_**, 4(1), 10-18. [https://doi.org/10.20377/cgn-62](https://doi.org/10.20377/cgn-62)
+- **Ivanovic, N.**, & [Gerrits, L](https://scholar.google.com/citations?user=eqi8RGoAAAAJ&hl=en&oi=ao). (2018). Teaching complexity in public administration across the globe: an overview. **_Complexity, Governance & Networks_**, 4(1), 10-18. [https://doi.org/10.20377/cgn-62](https://doi.org/10.20377/cgn-62)
 
 **2015**
 
@@ -37,7 +37,7 @@ nav_order: 2
 
 - **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Navigating daily disruptions: Communication mechanisms of stable and incidental coordination for organizational resilience. **_R&R 1st round (Organization Science_**)
 - **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Optimizing team external communication: Attention-based view on accelerated innovation in virtual hackathons. **_R&R 1st round (Journal of Management_**)
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), van Donk, D. P. Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_R&R 1st round (Journal of Supply Chain Management_**)
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_R&R 1st round (Journal of Supply Chain Management_**)
 
 
 ## Thesis
@@ -58,6 +58,6 @@ nav_order: 2
 
 **2025**
 
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), Jonker G, van der Steen MP, Wojtowicz N, Moran L, [Vazquez I](https://scholar.google.com/citations?user=I_KyKBQAAAAJ&hl=en), (in preparation). The role of collective emotional biofeedback on team performance. Data collection in progress.
-- [C. Deng](https://scholar.google.com/citations?user=6isFoKAAAAAJ&hl=en&oi=ao), J. Shreekumar, W. Sribunma, **N. Ivanovic**, M. H. Ahmed, [S. Brunswicker](https://scholar.google.com/citations?user=d1h-ClQAAAAJ&hl=en&oi=ao), and [I. Hwang](https://scholar.google.com/citations?user=UcRzyCgAAAAJ&hl=en&oi=ao), “Covee: A dataset for cognitive modeling with video, electroencephalography, and eye tracker,” Paper to be submitted for the Proceedings of the **_AAAI Conference on Artificial Intelligence_**, 2025.
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), Jonker G, van der Steen MP, Wojtowicz N, Moran L, [Vazquez, I](https://scholar.google.com/citations?user=I_KyKBQAAAAJ&hl=en), (in preparation). The role of collective emotional biofeedback on team performance. Data collection in progress.
+- [Deng, C.](https://scholar.google.com/citations?user=6isFoKAAAAAJ&hl=en&oi=ao),  Shreekumar, J., Sribunma, W., **Ivanovic, N.**, Ahmed, M. H., [Brunswicker, S.](https://scholar.google.com/citations?user=d1h-ClQAAAAJ&hl=en&oi=ao), and [Hwang, I](https://scholar.google.com/citations?user=UcRzyCgAAAAJ&hl=en&oi=ao). “Covee: A dataset for cognitive modeling with video, electroencephalography, and eye tracker,” Paper to be submitted for the Proceedings of the **_AAAI Conference on Artificial Intelligence_**, 2025.
 
