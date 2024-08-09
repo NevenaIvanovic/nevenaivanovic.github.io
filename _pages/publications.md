@@ -7,7 +7,17 @@ nav: true
 nav_order: 2
 ---
 
-## Peer-reviewed Papers and Conference Contributions
+
+## Manuscripts Under Review
+
+**2024**
+
+- **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Navigating daily disruptions: Communication mechanisms of stable and incidental coordination for organizational resilience. **_R&R 1st round (Organization Science_**)
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Optimizing team external communication: Attention-based view on accelerated innovation in virtual hackathons. **_R&R 1st round (Journal of Management_**)
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_R&R 1st round (Journal of Supply Chain Management_**)
+
+
+## Peer-reviewed Conference Contributions
 
 **2023**
 
@@ -21,6 +31,9 @@ nav_order: 2
 
 - **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) (2021). Heeding Small-scale Disruptions: The Benefits of Network Fragmentation. In **_Academy of Management Proceedings_** (Vol. 2021, No. 1, p. 12560). Briarcliff Manor, NY 10510: **Academy of Management**. [https://doi.org/10.5465/AMBPP.2021.12560abstract](https://doi.org/10.5465/AMBPP.2021.12560abstract)
 
+
+## Peer-reviewed papers
+
 **2018**
 
 - [Ruggeri, K.](https://scholar.google.com/citations?user=u05dAdoAAAAJ&hl=en&oi=ao), **Ivanovic, N.**, Razum, J., Kácha, O., Menezes, I. G., Zafari, Z., & Garcia-Garzon, E. (2018). An evidence-based policy for improving choice in global health access through medical travel. **_Health Policy_**, 122(12), 1372-1376. [https://doi.org/10.1016/j.healthpol.2018.09.017](https://doi.org/10.1016/j.healthpol.2018.09.017)
@@ -29,15 +42,6 @@ nav_order: 2
 **2015**
 
 - [Molina, A.](https://scholar.google.com/citations?user=55vx5nYAAAAJ&hl=en&oi=ao), Ćirić, M., Dostal, C., Goderska, K., Harrie, E., **Ivanovic, N.**, & Lillig, R. (2015). A Multiple Source Approach to Organisational Justice: The Role of the Organisation, Supervisors, Coworkers, and Customers. **_Journal of European Psychology Students_**, 6(2). [https://doi.org/10.5334/jeps.ct](https://doi.org/10.5334/jeps.ct)
-
-
-## Manuscripts Under Review
-
-**2024**
-
-- **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Navigating daily disruptions: Communication mechanisms of stable and incidental coordination for organizational resilience. **_R&R 1st round (Organization Science_**)
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Optimizing team external communication: Attention-based view on accelerated innovation in virtual hackathons. **_R&R 1st round (Journal of Management_**)
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_R&R 1st round (Journal of Supply Chain Management_**)
 
 
 ## Thesis
