@@ -8,29 +8,15 @@ nav_order: 2
 ---
 
 
-## Manuscripts Under Review
+## Under review and in progress:
 
-**2024**
-
-- **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Navigating daily disruptions: Communication mechanisms of stable and incidental coordination for organizational resilience. **_R&R 1st round (Organization Science_**)
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Optimizing team external communication: Attention-based view on accelerated innovation in virtual hackathons. **_R&R 1st round (Journal of Management_**)
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_R&R 1st round (Journal of Supply Chain Management_**)
-
-
-## Peer-reviewed Conference Contributions
-
-**2023**
-
-- **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) (2023). Short and Long-Term Informal Coordination for Resilience: A Relational Event Modeling Approach. In **_Academy of Management Proceedings_** (Vol. 2023, No. 1, p. 15267). Briarcliff Manor, NY 10510: **Academy of Management**. [https://doi.org/10.5465/AMPROC.2023.15267abstract](https://doi.org/10.5465/AMPROC.2023.15267abstract)
-
-**2022**
-
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) (2022). Managing Attention in Virtual Hackathons: Effective Configurations of Team External Communication. In **_Academy of Management Proceedings_** (Vol. 2022, No. 1, p. 14794). Briarcliff Manor, NY 10510: **Academy of Management**. **_Best student paper TIM division winner_**. [https://doi.org/10.5465/AMBPP.2022.226](https://doi.org/10.5465/AMBPP.2022.226)
-
-**2021**
-
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) (2021). Heeding Small-scale Disruptions: The Benefits of Network Fragmentation. In **_Academy of Management Proceedings_** (Vol. 2021, No. 1, p. 12560). Briarcliff Manor, NY 10510: **Academy of Management**. [https://doi.org/10.5465/AMBPP.2021.12560abstract](https://doi.org/10.5465/AMBPP.2021.12560abstract)
-
+- **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Navigating daily disruptions: Communication mechanisms of stable and incidental coordination for organizational resilience. **_Revise and resubmit, 1st round (Organization Science_**)
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Optimizing team external communication: Attention-based view on accelerated innovation in virtual hackathons. **_Revise and resubmit, 1st round (Journal of Management_**)
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_Revise and resubmit, 1st round (Journal of Supply Chain Management_**)
+- [Deng, C.](https://scholar.google.com/citations?user=6isFoKAAAAAJ&hl=en&oi=ao),  Shreekumar, J., Sribunma, W., **Ivanovic, N.**, Ahmed, M. H., [Brunswicker, S.](https://scholar.google.com/citations?user=d1h-ClQAAAAJ&hl=en&oi=ao), and [Hwang, I](https://scholar.google.com/citations?user=UcRzyCgAAAAJ&hl=en&oi=ao). “Covee: A dataset for cognitive modeling with video, electroencephalography, and eye tracker,” **_Under review, Proceedings of the AAAI Conference on Artificial Intelligence, 2025.
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), Jonker G, van der Steen MP, Wojtowicz N, Moran L, [Vazquez, I](https://scholar.google.com/citations?user=I_KyKBQAAAAJ&hl=en). The role of collective emotional biofeedback on team performance. **_Data collection in progress_**.
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra). A Data-Informed Approach to Disruption Management: Integrating Social Network Analysis and Agent-Based Modeling. **_Data collection in progress_**.
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra). Collaboration Dynamics and Strategic Interactions in Multiteam Systems: Navigating Digital Transformation. **_Data collection in progress_**.
 
 ## Peer-reviewed papers
 
@@ -42,7 +28,6 @@ nav_order: 2
 **2015**
 
 - [Molina, A.](https://scholar.google.com/citations?user=55vx5nYAAAAJ&hl=en&oi=ao), Ćirić, M., Dostal, C., Goderska, K., Harrie, E., **Ivanovic, N.**, & Lillig, R. (2015). A Multiple Source Approach to Organisational Justice: The Role of the Organisation, Supervisors, Coworkers, and Customers. **_Journal of European Psychology Students_**, 6(2). [https://doi.org/10.5334/jeps.ct](https://doi.org/10.5334/jeps.ct)
-
 
 ## Thesis
 
@@ -58,10 +43,52 @@ nav_order: 2
 - [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), & **Ivanovic, N.** (2023). Configuring team boundary spanning for resilience. In R. Fotinatos-Ventouratos, C. Cooper, & A. Antoniou (Eds.), **_Resilience in Modern Day Organizations_** (48-67). (Current Issues in Work and Organizational Psychology). **Routledge, Taylor & Francis Group**. [https://doi.org/10.4324/9781003287858-5](https://doi.org/10.4324/9781003287858-5)
 
 
-## Working Papers
+## Conference contributions
 
-**2025**
 
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), Jonker G, van der Steen MP, Wojtowicz N, Moran L, [Vazquez, I](https://scholar.google.com/citations?user=I_KyKBQAAAAJ&hl=en), (in preparation). The role of collective emotional biofeedback on team performance. Data collection in progress.
-- [Deng, C.](https://scholar.google.com/citations?user=6isFoKAAAAAJ&hl=en&oi=ao),  Shreekumar, J., Sribunma, W., **Ivanovic, N.**, Ahmed, M. H., [Brunswicker, S.](https://scholar.google.com/citations?user=d1h-ClQAAAAJ&hl=en&oi=ao), and [Hwang, I](https://scholar.google.com/citations?user=UcRzyCgAAAAJ&hl=en&oi=ao). “Covee: A dataset for cognitive modeling with video, electroencephalography, and eye tracker,” Paper to be submitted for the Proceedings of the **_AAAI Conference on Artificial Intelligence_**, 2025.
+**2024**
+
+- **Hübl, A.**, van Til, R., Martirosyan, E., de Vries, T., Jonker, G., **Ivanovic, N.**, van Donk, D. P., & Cao, M. (2024). Hybrid modeling of a systems-of-systems communication network in the Dutch railway industry. In **_European Operations Management Association: EurOMA_**.
+
+**2023**
+
+- **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) (2023). Short and Long-Term Informal Coordination for Resilience: A Relational Event Modeling Approach. In **_Academy of Management Proceedings_** (Vol. 2023, No. 1, p. 15267). Briarcliff Manor, NY 10510: **Academy of Management**. [https://doi.org/10.5465/AMPROC.2023.15267abstract](https://doi.org/10.5465/AMPROC.2023.15267abstract)
+
+**2022**
+
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) (2022). Managing Attention in Virtual Hackathons: Effective Configurations of Team External Communication. In **_Academy of Management Proceedings_** (Vol. 2022, No. 1, p. 14794). Briarcliff Manor, NY 10510: **Academy of Management**. **_Best student paper TIM division winner_**. [https://doi.org/10.5465/AMBPP.2022.226](https://doi.org/10.5465/AMBPP.2022.226)
+
+- **Ivanovic, N.**, de Vries, T., van der Vegt, G., & van Donk, D. P. (2022, November). Tackling Disruption Overlap: A Boundary Spanning Configural Approach. In **_12th Biennial International Conference of the Dutch HRM Network_**.
+
+
+**2021**
+
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) (2021). Heeding Small-scale Disruptions: The Benefits of Network Fragmentation. In **_Academy of Management Proceedings_** (Vol. 2021, No. 1, p. 12560). Briarcliff Manor, NY 10510: **Academy of Management**. [https://doi.org/10.5465/AMBPP.2021.12560abstract](https://doi.org/10.5465/AMBPP.2021.12560abstract)
+
+
+**2019**
+
+- **Ivanovic, N.**, de Vries, T., van der Vegt, G., & van Donk, D. P. (2019, September). Matching Collaboration to Disruptions: Relational Event Modeling of Inter-Team Collaboration During Organizational Disruptions. In **_European Conference on Social Networks_**.
+
+- **Ivanovic, N.**, de Vries, T., van der Vegt, G., & van Donk, D. P. (2019, June). Building resilience: Matching the collaboration structure of teams with disruption characteristics. In **_European Operations Management Association: EurOMA_**.
+
+**2016**
+
+- Milosavljević, N., Cocić, D., **Ivanovic, N.**, Dimić, S., & Žeželj, I. (2016). Development of the Procedure for Measuring Deception Ability. In **_XXII Empirical Research in Psychology Conference_** in Belgrade, Serbia.
+
+**2015**
+
+- Molina, A., Ciric, M., Dostal, C., Goderska, K., Harrie, E., **Ivanovic, N.**, & Lillig, R. (2015). Moral Attentiveness and the Target Similarity Model. In **_Junior Research Programme Conference_**, University of Cambridge.
+
+- Molina, A., Ciric, M., Dostal, C., Goderska, K., Harrie, E., **Ivanovic, N.**, & Lillig, R. (2015). Measuring Multifoci Justice via Overall Justice Perceptions. In **_Junior Research Programme Conference_**, University of Cambridge, **Poster presentation**.
+
+- **Ivanovic, N.**, Lazarevic, J., Sevrt, J., Jevtovic, J., & Puric, D. (2015). Correlation Between Set-shifting Executive Function, Intelligence, and School Achievement. In **_XXI Empirical Research in Psychology Conference_** in Belgrade, Serbia. Supported by the Ministry of Education, Science and Technological Development of the Republic of Serbia (project number 179018).
+
+- Molina, A., Ciric, M., Dostal, C., Goderska, K., Harrie, E., **Ivanovic, N.**, & Lillig, R. Extending the Multifoci Approach to Organizational Justice: The Role of Moral Attentiveness. In **_XVII European Association of Work and Organizational Psychology (EAWOP) Conference_** held on May 20-23, 2015, in Oslo, Norway.
+
+**2014**
+
+- **Ivanovic, N.**, Lazarevic, J., Sevrt, J., Jevtovic, J., & Puric, D. (2014). Metric Characteristics of the Category-switch Task. In **_XX Empirical Research in Psychology Conference_** in Belgrade, Serbia.
+
+
 
