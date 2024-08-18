@@ -18,7 +18,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page 
 ---
 
 I am currently a postdoctoral researcher at the University of Groningen, Faculty of Economics and Business, in the Department of Organizational Behavior and Human Resource Management.
