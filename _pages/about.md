@@ -25,7 +25,7 @@ I am currently a postdoctoral researcher at the University of Groningen, Faculty
 
 My research focuses on optimizing human collaboration and integrating technology into organizational settings. I explore how technological advancements can complement human work practices, communication, and decision-making processes, providing insights that drive individual, team, and organizational innovation, resilience, and adaptability.
 
-My work investigates contexts such as critical infrastructures (water supply, railway systems), human-autonomy teaming environments (UAV operations), emerging work paradigms (virtual hackathons), and controlled environments (experimental group problem-solving). I employ advanced quantitative methods, including social network analysis, on large-scale communication, event log, digital trace and wearable sensor data.
+My work investigates contexts such as critical infrastructures (water supply, railway systems), human-autonomy teaming environments (UAV operations), emerging work paradigms (virtual hackathons), and controlled environments (experimental group problem-solving). I employ advanced quantitative methods, including social network analysis, on large-scale communication, event logs, digital trace and wearable sensor data.
 
 **Research interests:**
 
