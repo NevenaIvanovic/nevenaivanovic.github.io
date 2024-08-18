@@ -12,15 +12,6 @@
 //   }
 // };
 
-// let toggleThemeSetting = () => {
-//   let themeSetting = determineThemeSetting();
-//   if (themeSetting !== "light") {
-//     setThemeSetting("light");
-//   } else {
-//     setThemeSetting("dark");
-//   }
-// };
-
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting !== "light") {
@@ -29,6 +20,15 @@ let toggleThemeSetting = () => {
     setThemeSetting("dark");
   }
 };
+
+// let toggleThemeSetting = () => {
+//   let themeSetting = determineThemeSetting();
+//   if (themeSetting !== "light") {
+//     setThemeSetting("light");
+//   } else {
+//     setThemeSetting("dark");
+//   }
+// };
 
 
 // Change the theme setting and apply the theme.
