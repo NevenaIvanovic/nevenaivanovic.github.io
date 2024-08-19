@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently a postdoctoral researcher at the University of Groningen, Faculty of Economics and Business, in the Department of Organizational Behavior and Human Resource Management.
 
-My research focuses on optimizing human collaboration and integrating technology into organizational settings. I explore how technological advancements can complement human work practices, communication, and decision-making processes, providing insights that drive individual, team, and organizational innovation, resilience, and adaptability.
+My research focuses on understanding how individuals perform and interact to form successful and resilient teams and organizations within high-stakes, stressful, disruptive, and digitally-mediated work environments. I am particularly interested in how technology can be effectively integrated into the workplace to complement and enhance both human capabilities and interpersonal interactions.
 
 My work investigates contexts such as critical infrastructures (water supply, railway systems), human-autonomy teaming environments (UAV operations), emerging work paradigms (virtual hackathons), and controlled environments (experimental group problem-solving). I employ advanced quantitative methods, including social network analysis, on large-scale communication, event logs, digital trace and wearable sensor data.
 
@@ -35,9 +35,17 @@ My work investigates contexts such as critical infrastructures (water supply, ra
 - Virtual and distributed teamwork
 - Accelerated innovation
 - Real-time feedback and performance optimization
+- Physiological synchrony
 - Human-technology interaction
 - Digital transformation
 
 
 
-<!--My research focuses on understanding how individuals and teams perform and maintain well-being in high-stakes, disruptive, and digitally-mediated work environments. I am particularly interested in the behavioral and neurophysiological underpinnings of effective communication and coordination, and the role of technology in these processes. My work combines innovative data collection methods, including communication logs, wearable sensors, and digital trace data, with advanced analytical techniques such as network analysis and event sequence modeling.-->
+
+<!-- My research focuses on optimizing human collaboration and integrating technology into organizational settings. I explore how technological advancements can complement human work practices, communication, and decision-making processes, providing insights that drive individual, team, and organizational innovation, resilience, and adaptability. -->
+
+
+<!-- I am particularly interested in the behavioral and neurophysiological underpinnings of effective communication and coordination, and the role of technology in these processes.  -->
+
+
+<!-- My work combines innovative data collection methods, including communication logs, wearable sensors, and digital trace data, with advanced analytical techniques such as network analysis and event sequence modeling. -->
