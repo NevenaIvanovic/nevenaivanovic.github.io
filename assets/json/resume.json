@@ -12,15 +12,24 @@
   "work": [
     {
       "name": "University of Groningen",
+      "location": "Netherlands",
       "position": "Postdoctoral Researcher",
-      "startDate": "2022",
+      "startDate": "2022-12-01",
       "summary": "Faculty of Economics and Business, HRM & Organizational Behavior"
+    },
+    {
+      "name": "Northwestern University",
+      "location": "USA",
+      "position": "Visiting Scholar",
+      "startDate": "2022-03-01",
+      "endDate": "2022-06-01",
+      "summary": "3-month research stay at ATLAS lab, hosted by Prof. Leslie DeChurch and Prof. Noshir Contractor"
     }
   ],
   "education": [
     {
       "institution": "University of Groningen",
-      "location": "The Netherlands",
+      "location": "Netherlands",
       "area": "Faculty of Economics and Business, HRM & Organizational Behavior",
       "studyType": "PhD",
       "startDate": "2018",
@@ -28,14 +37,7 @@
       "description": "Dissertaton: Communication Markers of Resilience: Activity, Timing, and Mechanisms of Effective Communication Amidst Adverse Events"
       
     },
-    {
-      "institution": "Northwestern University",
-      "location": "Evanston, USA",
-      "area": "ATLAS lab",
-      "studyType": "Visiting Scholar",
-      "startDate": "2022",
-      "endDate": "2022"
-    },
+ 
     {
       "institution": "Otto-Friedrich-Universität Bamberg",
       "location": "Germany",
