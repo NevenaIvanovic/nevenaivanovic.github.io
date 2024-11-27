@@ -8,8 +8,7 @@ profile:
   align: right
   image: Nevena_image.jpg
   image_circular: false # crops the image to make it circular
-  more_info: > 
-    <p><a href='https://www.rug.nl/feb/organization/departments/hrmob/?lang=en'>HRM&OB</a></p>  
+  more_info: >  
     <p><a href='https://www.rug.nl/feb'>Faculty of Economics and Business</a></p>  
     <p><a href='https://www.rug.nl'>University of Groningen</a></p>  
     <p>Nettelbosje 2, Office 345</p>  
