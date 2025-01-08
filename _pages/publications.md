@@ -23,7 +23,7 @@ nav_order: 2
 **2018**
 
 - [Ruggeri, K.](https://scholar.google.com/citations?user=u05dAdoAAAAJ&hl=en&oi=ao), **Ivanovic, N.**, Razum, J., Kácha, O., Menezes, I. G., Zafari, Z., & Garcia-Garzon, E. (2018). An evidence-based policy for improving choice in global health access through medical travel. **_Health Policy_**, 122(12), 1372-1376. [https://doi.org/10.1016/j.healthpol.2018.09.017](https://doi.org/10.1016/j.healthpol.2018.09.017)
-- **Ivanovic, N.**, & [Gerrits, L](https://scholar.google.com/citations?user=eqi8RGoAAAAJ&hl=en&oi=ao). (2018). Teaching complexity in public administration across the globe: an overview. **_Complexity, Governance & Networks_**, 4(1), 10-18. [https://doi.org/10.20377/cgn-62](https://doi.org/10.20377/cgn-62)
+- **Ivanovic, N.**, & [Gerrits, L](https://scholar.google.com/citations?user=eqi8RGoAAAAJ&hl=en&oi=ao). (2018). Teaching complexity in public administration across the globe: an overview. **_Complexity, Governance & Networks_**, 4(1), 10-18. 
 
 **2015**
 
