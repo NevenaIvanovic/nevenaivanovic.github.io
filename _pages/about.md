@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page  
 ---
 
-I am currently a postdoctoral researcher at the University of Groningen, Faculty of Economics and Business.
+I am currently a postdoctoral researcher at the University of Groningen, Faculty of Economics and Business. 
 
 My research focuses on understanding how individuals perform and interact to form successful and resilient teams and organizations within high-stakes, stressful, disruptive, and digitally-mediated work environments. I am particularly interested in how technology can be effectively integrated into the workplace to complement and enhance both human capabilities and interpersonal interactions.
 
