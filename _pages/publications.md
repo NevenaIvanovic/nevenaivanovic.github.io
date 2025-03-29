@@ -21,7 +21,7 @@ nav_order: 2
 
 **2025**
 
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_In Press (Journal of Supply Chain Management)_**
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). (2025). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_Journal of Supply Chain Management_** [https://doi.org/10.1111/jscm.12346](https://doi.org/10.1111/jscm.12346)
 
 **2018**
 
