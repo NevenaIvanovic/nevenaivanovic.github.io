@@ -30,7 +30,7 @@ nav_order: 2
 
 **2015**
 
-- [Molina, A.](https://scholar.google.com/citations?user=55vx5nYAAAAJ&hl=en&oi=ao), Ćirić, M., Dostal, C., Goderska, K., Harrie, E., **Ivanovic, N.**, & Lillig, R. (2015). A Multiple Source Approach to Organisational Justice: The Role of the Organisation, Supervisors, Coworkers, and Customers. **_Journal of European Psychology Students_**, 6(2). [https://doi.org/10.5334/jeps.ct](https://doi.org/10.5334/jeps.ct)
+- [Molina, A.](https://scholar.google.com/citations?user=55vx5nYAAAAJ&hl=en&oi=ao), Ćirić, M., Dostal, C., Goderska, K., Harrie, E., **Ivanovic, N.**, & Lillig, R. (2015). A Multiple Source Approach to Organisational Justice: The Role of the Organisation, Supervisors, Coworkers, and Customers. **_Journal of European Psychology Students_**, 6(2). [https://doi.org/10.5334/jeps.ct](https://doi.org/10.5334/jeps.ct) 
 
 ## Thesis
 
