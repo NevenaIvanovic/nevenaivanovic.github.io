@@ -2,27 +2,42 @@
   "basics": {
     "name": "Nevena Ivanovic",
     "label": "Researcher",
-    "email": "nevena.ivanovic@rug.nl",
+    "email": "nevena.ivanovic@duke.edu",
     "location": {
-      "city": "Groningen",
-      "countryCode": "NL",
-      "region": "The Netherlands"
+      "city": "Durham",
+      "countryCode": "USA",
+      "region": "United States"
     }
   },
   "work": [
     {
+      "name": "Duke University",
+      "location": "USA",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2025",
+      "summary": ""
+    },
+    {
+      "name": "The Fuqua School of Business, Duke University",
+      "location": "USA",
+      "position": "Visiting Researcher",
+      "startDate": "2025",
+      "summary": ""
+    },
+    {
       "name": "University of Groningen",
       "location": "Netherlands",
       "position": "Postdoctoral Researcher",
-      "startDate": "2022-12-01",
+      "startDate":  "2022",
+      "endDate": "2025",
       "summary": "Faculty of Economics and Business, HRM & Organizational Behavior"
     },
     {
       "name": "Northwestern University",
       "location": "USA",
       "position": "Visiting Scholar",
-      "startDate": "2022-03-01",
-      "endDate": "2022-06-01",
+      "startDate": "2022",
+      "endDate": "2022",
       "summary": "3-month research stay at ATLAS lab, hosted by Prof. Leslie DeChurch and Prof. Noshir Contractor"
     }
   ],
@@ -47,7 +62,7 @@
     },
     {
       "institution": "University of Belgrade",
-      "location": "Belgrade, Serbia",
+      "location": "Serbia",
       "area": "Psychology",
       "studyType": "Master",
       "startDate": "2015",
@@ -57,14 +72,14 @@
     {
       "institution": "University of Cambridge",
       "area": "Corpus Christi College",
-      "location": "Cambridge, UK",
+      "location": "UK",
       "studyType": "Research Intern",
       "startDate": "2015",
       "endDate": "2015"
     },
     {
       "institution": "University of Belgrade",
-      "location": "Belgrade, Serbia",
+      "location": "Serbia",
       "area": "Psychology",
       "studyType": "Bachelor",
       "startDate": "2011",
