@@ -12,7 +12,7 @@ profile:
     <p><a href='https://www.fuqua.duke.edu/'>The Fuqua School of Businesss</a></p>  
     <p><a href='https://duke.edu/'>Duke University</a></p>  
     <p>100 Fuqua Drive</p>  
-    <p>Durham, NC 27708</p>    
+    <p>Durham, NC 27708, A212</p>    
 
 
 news: false # includes a list of news items
@@ -29,9 +29,9 @@ My work investigates contexts such as critical infrastructures (water supply, ra
 **Research interests:**
 
 - Resilience and adaptation
-- Communication networks
-- Social network analysis
-- Virtual and distributed teamwork
+- Social Networks
+- Virtual teams
+- Future of work
 - Accelerated innovation
 - Real-time feedback and performance optimization
 - Human-technology interaction

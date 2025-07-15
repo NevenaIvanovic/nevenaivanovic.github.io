@@ -1,14 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Experience
+title: Teaching interests
 description: 
 nav: true
 nav_order: 6
 ---
 
+I like to teach about how organizations and teams anticipate and respond to disruptive events while adapting to evolving digital work arrangements, with emphasis on crisis management, resilience, communication, and teamwork. I foster network thinking through social network analysis and systems thinking approaches to help students understand how connections between people and teams shape organizational outcomes.
 
-## **Organizational Behavior and Group Dynamics**
+<br>
+
+# Teaching Experience
+
+#### **Organizational Behavior and Group Dynamics**
 **Institution:** University of Groningen, Netherlands  
 **Topics:** Organizational behavior, Teams, Social Network Analysis (SNA)  
 [Course syllabus](https://ocasys.rug.nl/2022-2023/catalog/course/WBIE012-05)  
@@ -23,11 +28,11 @@ nav_order: 6
   - 7.74 (2020) *Scale: 1 = very poor, 10 = very good*
   - 8.00 (2021) *Scale: 1 = very poor, 10 = very good*
 
+<br>
 
-## **Tools for the Analysis of Complex Social Systems: An Introduction**
+#### **Tools for the Analysis of Complex Social Systems: An Introduction**
 **Institution:** [ECPR](https://ecpr.eu/) Winter School in Research Methods and Techniques  
 **Topics:** Complex systems theory, System dynamics, Agent-based modelling, QCA  
-[Course syllabus](https://ecpr.eu/Events/Event/PanelDetails/8359)  
 **Class size:** ~ 20  
 **Level:** Graduate  
 **Role:** Teaching assistant. Conducted tutorials on System Dynamics using Vensim and Agent-Based Modeling using NetLogo  
@@ -38,8 +43,9 @@ nav_order: 6
 **Evaluations:**
   - 4.28 (2018) *Scale: 1 = very poor, 5 = very good*
 
+<br>
 
-## **Computer-Aided Social Inquiry**
+#### **Computer-Aided Social Inquiry**
 **Institution:** [University of Bamberg](https://www.uni-bamberg.de/en/), Germany  
 **Topics:** System Dynamics Modelling, Vensim  
 **Class size:** ~ 10  
@@ -49,7 +55,9 @@ nav_order: 6
 - Autumn 2017
 - Autumn 2018
 
-## **Psychometrics and Psychology of Individual Differences**
+<br>
+
+#### **Psychometrics and Psychology of Individual Differences**
 **Institution:** University of Belgrade, Department of Psychology, Faculty of Philosophy, Serbia  
 **Topics:** Psychometrics, Instrument development, Statistics  
 **Class size:** ~ 100, actively mentoring one to two groups, each consisting of five members  
@@ -60,6 +68,8 @@ nav_order: 6
 - Autumn 2015
 - Autumn 2016
 - Autumn 2017
+
+<br>
 
 # Teaching Qualifications
 **Course:** “Start to teach” course  
