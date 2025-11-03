@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-## Under review and in progress:
+## Under review and in progress: 
 
 - **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Team External Networking and Innovation in Virtual Hackathons. **_Revise and resubmit (Journal of Management)_**
 - **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Coordination Mechanisms for Organizational Adaptation. **_Preparing for submission_**
