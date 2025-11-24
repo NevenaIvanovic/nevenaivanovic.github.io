@@ -13,6 +13,14 @@ I like to teach about how organizations and teams anticipate and respond to disr
 
 # Teaching Experience
 
+#### **Crisis Management and Prevention in Leadership (Lecture)**
+**Institution:** Duke University, Pratt School of Engineering   
+**Topics:** Crisis Management, System Dynamics, Networks    
+**Level:** Graduate  
+**Role:** Lecturer 
+
+<br>
+
 #### **Organizational Behavior and Group Dynamics**
 **Institution:** University of Groningen, Netherlands  
 **Topics:** Organizational behavior, Teams, Social Network Analysis (SNA)  

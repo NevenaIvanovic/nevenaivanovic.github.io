@@ -11,8 +11,7 @@ nav_order: 2
 ## Under review and in progress: 
 
 - **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Team External Networking and Innovation in Virtual Hackathons. **_Revise and resubmit (Journal of Management)_**
-- **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Coordination Mechanisms for Organizational Adaptation. **_Preparing for submission_**
-- [Deng, C.](https://scholar.google.com/citations?user=6isFoKAAAAAJ&hl=en&oi=ao),  Shreekumar, J., Sribunma, W., Ahmed, M. H., **Ivanovic, N.**, [Brunswicker, S.](https://scholar.google.com/citations?user=d1h-ClQAAAAJ&hl=en&oi=ao), Goppert, J., Ghasemi, M. & [Hwang, I](https://scholar.google.com/citations?user=UcRzyCgAAAAJ&hl=en&oi=ao). “Covee: A dataset for cognitive modeling with video, electroencephalography, and eye tracker,” **_Under review, IEEE Transactions on Affective Computing_**.
+- **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Coordination Mechanisms for Organizational Adaptation. **_Preparing for submission (Journal of Operations Management)_**
 - **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), Jonker G, van der Steen MP, Wojtowicz N, Moran L, [Vazquez, I](https://scholar.google.com/citations?user=I_KyKBQAAAAJ&hl=en). The role of collective emotional biofeedback in team performance. **_Data collection in progress_**.
 - **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra). A Data-Informed Approach to Disruption Management: Integrating Social Network Analysis and Agent-Based Modeling. **_Data collection in progress_**.
 
@@ -22,6 +21,7 @@ nav_order: 2
 **2025**
 
 - **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). (2025). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_Journal of Supply Chain Management_** [https://doi.org/10.1111/jscm.12346](https://doi.org/10.1111/jscm.12346)
+- [Deng, C.](https://scholar.google.com/citations?user=6isFoKAAAAAJ&hl=en&oi=ao),  Shreekumar, J., Sribunma, W., Ahmed, M. H., **Ivanovic, N.**, [Brunswicker, S.](https://scholar.google.com/citations?user=d1h-ClQAAAAJ&hl=en&oi=ao), Goppert, J., Ghasemi, M. & [Hwang, I](https://scholar.google.com/citations?user=UcRzyCgAAAAJ&hl=en&oi=ao). (2025). Covee: A dataset for cognitive modeling with video, electroencephalography, and eye tracker. **_Neurocomputing_**.
 
 **2018**
 
