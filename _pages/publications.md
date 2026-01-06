@@ -20,8 +20,9 @@ nav_order: 2
 
 **2025**
 
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). (2025). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_Journal of Supply Chain Management_** [https://doi.org/10.1111/jscm.12346](https://doi.org/10.1111/jscm.12346)
-- [Deng, C.](https://scholar.google.com/citations?user=6isFoKAAAAAJ&hl=en&oi=ao),  Shreekumar, J., Sribunma, W., Ahmed, M. H., **Ivanovic, N.**, [Brunswicker, S.](https://scholar.google.com/citations?user=d1h-ClQAAAAJ&hl=en&oi=ao), Goppert, J., Ghasemi, M. & [Hwang, I](https://scholar.google.com/citations?user=UcRzyCgAAAAJ&hl=en&oi=ao). (2025). Covee: A dataset for cognitive modeling with video, electroencephalography, and eye tracker. **_Neurocomputing_**.
+- [Deng, C.](https://scholar.google.com/citations?user=6isFoKAAAAAJ&hl=en&oi=ao),  Shreekumar, J., Sribunma, W., Ahmed, M. H., **Ivanovic, N.**, [Brunswicker, S.](https://scholar.google.com/citations?user=d1h-ClQAAAAJ&hl=en&oi=ao), Goppert, J., Ghasemi, M. & [Hwang, I](https://scholar.google.com/citations?user=UcRzyCgAAAAJ&hl=en&oi=ao). (2026). Covee: A dataset for cognitive modeling with video, electroencephalography, and eye tracker. **_Neurocomputing_**, 664. [doi:10.1016/j.neucom.2025.132167](https://doi.org/10.1016/j.neucom.2025.132167)
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra), [van Donk, D. P](https://scholar.google.com/citations?user=VaKZtXEAAAAJ&hl=en). (2025). Handling disruption concurrence: The importance of inter and intra-departmental communication for critical infrastructure resilience. **_Journal of Supply Chain Management_**, 61(3), 55-76. [https://doi.org/10.1111/jscm.12346](https://doi.org/10.1111/jscm.12346)
+
 
 **2018**
 

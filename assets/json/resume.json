@@ -15,14 +15,7 @@
       "location": "USA",
       "position": "Postdoctoral Researcher",
       "startDate": "2025",
-      "summary": ""
-    },
-    {
-      "name": "The Fuqua School of Business, Duke University",
-      "location": "USA",
-      "position": "Visiting Researcher",
-      "startDate": "2025",
-      "summary": ""
+      "summary": "Fuqua School of Business; Statistical Science; Pratt School of Engineering"
     },
     {
       "name": "University of Groningen",
@@ -38,7 +31,7 @@
       "position": "Visiting Scholar",
       "startDate": "2022",
       "endDate": "2022",
-      "summary": "3-month research stay at ATLAS lab, hosted by Prof. Leslie DeChurch and Prof. Noshir Contractor"
+      "summary": "ATLAS lab"
     }
   ],
   "education": [
@@ -56,7 +49,7 @@
     {
       "institution": "Otto-Friedrich-Universität Bamberg",
       "location": "Germany",
-      "studyType": "Erasmus+ Student Exchange Programme",
+      "studyType": "Student Exchange Programme",
       "startDate": "2016",
       "endDate": "2017"
     },

@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page  
 ---
 
-I am a postdoctoral researcher at Duke University, and a visiting scholar at the Fuqua School of Business.
+I am a postdoctoral researcher at Duke University, cross-appointed between the Fuqua School of Business, the Department of Statistical Science, and the Pratt School of Engineering.
 
 My research focuses on understanding how individuals perform and interact to form successful and resilient teams and organizations within high-stakes, stressful, disruptive, and digitally-mediated work environments. I am particularly interested in how technology can be effectively integrated into the workplace to complement and enhance both human capabilities and interpersonal interactions.
 
