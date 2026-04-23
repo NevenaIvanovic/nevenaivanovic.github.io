@@ -10,10 +10,10 @@ nav_order: 2
 
 ## Under review and in progress: 
 
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Team External Networking and Innovation in Virtual Hackathons. **_Revise and resubmit (Journal of Management)_**
 - **Ivanovic, N.**, [Schecter, A.](https://scholar.google.com/citations?user=QYXNseEAAAAJ&hl=en), [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Coordination Mechanisms for Organizational Adaptation. **_Preparing for submission (Journal of Operations Management)_**
-- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), Jonker G, van der Steen MP, Wojtowicz N, Moran L, [Vazquez, I](https://scholar.google.com/citations?user=I_KyKBQAAAAJ&hl=en). The role of collective emotional biofeedback in team performance. **_Data collection in progress_**.
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S.](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra) Team External Networking and Innovation in Virtual Hackathons. **_Preparing for submission (MISQ)_**
 - **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), & [Van Der Vegt, G. S](https://scholar.google.com/citations?user=eXKtLwoAAAAJ&hl=en&oi=sra). A Data-Informed Approach to Disruption Management: Integrating Social Network Analysis and Agent-Based Modeling. **_Data collection in progress_**.
+- **Ivanovic, N.**, [De Vries, T. A.](https://scholar.google.com/citations?user=3eY7tOQAAAAJ&hl=en&oi=ao), Jonker G, van der Steen MP, Wojtowicz N, Moran L, [Vazquez, I](https://scholar.google.com/citations?user=I_KyKBQAAAAJ&hl=en). The role of collective emotional biofeedback in team performance. **_Data collection in progress_**.
 
 
 ## Peer-reviewed papers

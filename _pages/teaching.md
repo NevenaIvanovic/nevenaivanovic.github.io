@@ -7,81 +7,64 @@ nav: true
 nav_order: 6
 ---
 
-I like to teach about how organizations and teams anticipate and respond to disruptive events while adapting to evolving digital work arrangements, with emphasis on crisis management, resilience, communication, and teamwork. I foster network thinking through social network analysis and systems thinking approaches to help students understand how connections between people and teams shape organizational outcomes.
+My teaching focuses on how teams and organizations communicate, coordinate, and adapt in challenging conditions. Across courses and workshops, I focus on crisis management, adaptation, resilience, teamwork, and human-AI collaboration, and I use network and systems thinking to help students understand how relationships and interdependencies shape team and organizational functioning.
 
 <br>
 
-# Teaching Experience
-
-#### **Crisis Management and Prevention in Leadership (Lecture)**
-**Institution:** Duke University, Pratt School of Engineering   
-**Topics:** Crisis Management, System Dynamics, Networks    
+#### **Team Coordination Under Uncertainty and Change**
+**Year:** 2026  
+**Format:** Workshop  
+**Institution:** Duke University, Pratt School of Engineering, Master of Engineering Management Online Program  
+**Topics:** Team Coordination, Communication, Decision-Making Under Ambiguity, Crisis Prevention  
 **Level:** Graduate  
-**Role:** Lecturer 
+**Role:** Lecturer
 
-<br>
+#### **Graduate Workshops on Teamwork and Collaboration**
+**Year:** 2026  
+**Format:** Workshops and Seminar Sessions  
+**Institution:** Duke University, Department of Statistical Science  
+**Topics:** Teamwork, Collaboration, Human-AI Interaction, Communication  
+**Level:** Graduate  
+**Role:** Lecturer
+
+#### **Crisis Management and Prevention in Leadership**
+**Year:** 2025  
+**Format:** Seminar  
+**Institution:** Duke University, Pratt School of Engineering, Master of Engineering Management Program  
+**Topics:** Crisis Management, Crisis Prevention, Systems Thinking  
+**Level:** Graduate  
+**Role:** Lecturer
 
 #### **Organizational Behavior and Group Dynamics**
+**Years:** 2020, 2021  
 **Institution:** University of Groningen, Netherlands  
-**Topics:** Organizational behavior, Teams, Social Network Analysis (SNA)  
-[Course syllabus](https://ocasys.rug.nl/2022-2023/catalog/course/WBIE012-05)  
-**Class size:** ~ 120  
+**Topics:** Organizational Behavior, Teams, Social Network Analysis  
 **Level:** Bachelor  
-**Role:** Teaching assistant. Assisted in SNA tutorials, covered a lesson on innovative data collection methods for SNA, and delivered a theoretical lesson on organizational teams  
-**Semester:** 
-- Autumn 2020 
-- Autumn 2021   
-
-**Evaluations:**
-  - 7.74 (2020) *Scale: 1 = very poor, 10 = very good*
-  - 8.00 (2021) *Scale: 1 = very poor, 10 = very good*
-
-<br>
+**Role:** Teaching Assistant  
+**Details:** Assisted in social network analysis tutorials, taught a session on innovative data collection methods for social network analysis, and delivered a theoretical session on organizational teams.  
 
 #### **Tools for the Analysis of Complex Social Systems: An Introduction**
+**Years:** 2018, 2019  
 **Institution:** [ECPR](https://ecpr.eu/) Winter School in Research Methods and Techniques  
-**Topics:** Complex systems theory, System dynamics, Agent-based modelling, QCA  
-**Class size:** ~ 20  
+**Topics:** Complex Systems Theory, System Dynamics, Agent-Based Modeling, QCA  
 **Level:** Graduate  
-**Role:** Teaching assistant. Conducted tutorials on System Dynamics using Vensim and Agent-Based Modeling using NetLogo  
-**Semester:** 
-- December 2018 
-- December 2019
-
-**Evaluations:**
-  - 4.28 (2018) *Scale: 1 = very poor, 5 = very good*
-
-<br>
+**Role:** Teaching Assistant  
+**Details:** Conducted tutorials on system dynamics using Vensim and agent-based modeling using NetLogo.
 
 #### **Computer-Aided Social Inquiry**
+**Years:** 2017, 2018  
 **Institution:** [University of Bamberg](https://www.uni-bamberg.de/en/), Germany  
-**Topics:** System Dynamics Modelling, Vensim  
-**Class size:** ~ 10  
+**Topics:** System Dynamics Modeling, Vensim  
 **Level:** Graduate  
-**Role:** Teaching assistant. Conducted tutorials on Vensim, assisting students in developing their projects  
-**Semester:** 
-- Autumn 2017
-- Autumn 2018
-
-<br>
+**Role:** Teaching Assistant  
+**Details:** Conducted tutorials on Vensim and supported students in developing course projects.
 
 #### **Psychometrics and Psychology of Individual Differences**
+**Years:** 2014, 2015, 2016, 2017  
 **Institution:** University of Belgrade, Department of Psychology, Faculty of Philosophy, Serbia  
-**Topics:** Psychometrics, Instrument development, Statistics  
-**Class size:** ~ 100, actively mentoring one to two groups, each consisting of five members  
+**Topics:** Psychometrics, Instrument Development, Statistics  
 **Level:** Bachelor  
-**Role:** Student mentor. Guided groups of students in developing a new psychological instrument, organizing and conducting research, analyzing collected data, and writing an instrument manual; assessed students' assignments for the course  
-**Semester:** 
-- Autumn 2014
-- Autumn 2015
-- Autumn 2016
-- Autumn 2017
+**Role:** Student Mentor  
+**Details:** Mentored student groups in developing a psychological instrument, conducting research, analyzing data, and writing an instrument manual; also assessed student assignments.
 
 <br>
-
-# Teaching Qualifications
-**Course:** “Start to teach” course  
-**Institution:** University of Groningen  
-**Duration:** November 2021 – January 2022  
-**Course topics:** Educational design, learning and motivation, active learning, effective feedback, assessment methods, diversity in the classroom
-
